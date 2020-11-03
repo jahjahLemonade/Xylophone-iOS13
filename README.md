@@ -24,7 +24,6 @@ Created my first musical instrument! Music apps are so popular on the App Store 
 * Code refactoring.
 * Basic debugging.
 
-<br/>
-<br/>
+
 ![](https://media.giphy.com/media/T1JKWj1pkKlwicgiri/giphy.gif)
 
